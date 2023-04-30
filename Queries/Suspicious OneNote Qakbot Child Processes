@@ -1,0 +1,1 @@
+SrcProcName In AnyCase  ( "onenote.exe" ) AND TgtProcName In Contains Anycase  ( "mshta"     , "cmd"     , "powershell"     , "regsvr"     , "rundll32"     , "wmic"     , "wscript"     , "forfiles"  , "hh.exe" )
