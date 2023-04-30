@@ -1,0 +1,1 @@
+CmdLine In Contains Anycase  ( "fsutil behavior set"       , "maxmpxct"       , "wevtutil.exe cl"       , "get-adr"       , ".onion"       , "vm_kill"       , "snapshot_kill"       , "/rust"       , "ACCESS_KEY" ) AND EndpointOS = "windows" AND NOT CmdLine Contains Anycase "ScreenAgent"
