@@ -1,0 +1,1 @@
+SrcProcParentActiveContentPath In Contains Anycase ("Downloads","\Appdata") AND TgtProcImagePath Contains Anycase "powershell.exe" AND CmdLine  In Contains Anycase ("new-object byte", "ASCII.GetString" ,"-bxor ", "FromBase64String","-enc")
