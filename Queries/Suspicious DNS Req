@@ -1,0 +1,1 @@
+DnsRequest In Contains AnyCase  ( "ngrok"      , "duckdns."      , "afraid.org"      , "ddns.net"      , "hooks.slack.com"     , "dropmefile.com"     , "textbin.net/raw" ) AND NOT SrcProcName In Contains Anycase  ( "SampleProcessNameHere.exe" )
