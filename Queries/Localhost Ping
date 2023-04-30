@@ -1,0 +1,1 @@
+( CmdLine Contains Anycase "ping 127.0.0.1" AND NOT TgtProcCmdLine In Contains Anycase  ( "Windows\delsu.cmd" ) AND NOT SrcProcCmdLine In Contains Anycase  ( "Windows\delsu.cmd" ) )
