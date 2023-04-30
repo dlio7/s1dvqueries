@@ -1,0 +1,1 @@
+SrcProcParentCmdLine Contains Anycase "C:\Users" AND TgtProcName Contains AnyCase "Expand.exe" AND EventType = "Process Creation" AND NOT SrcProcCmdLine Contains Anycase "Dell\UpdateService" AND NOT SrcProcParentName In Contains  ( "SOS" , "vivaldi.exe" )
