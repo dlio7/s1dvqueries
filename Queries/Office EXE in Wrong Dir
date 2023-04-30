@@ -1,0 +1,1 @@
+SrcProcParentName In Contains Anycase  ( "OUTLOOK.EXE","WINWORD.EXE","POWERPOINT.EXE","ONENOTE.EXE") AND NOT SrcProcParentImagePath Contains Anycase ("Program Files")
