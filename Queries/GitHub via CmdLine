@@ -1,0 +1,1 @@
+SrcProcCmdLine ContainsCIS "raw.githubusercontent" AND NOT SrcProcCmdLine Contains Anycase "CWCAutomateDiagnostics"
